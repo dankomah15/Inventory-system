@@ -47,7 +47,7 @@ const RegisterForm = ({ image }) => {
             <img 
               src={image} 
               alt="Logo" 
-              className="w-24 h-24 object-contain"
+              className="object-contain"
             />
           </div>
         )}
