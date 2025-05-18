@@ -69,7 +69,7 @@ const StockPurchase = () => {
     <div className="p-6 space-y-8 bg-blue-700 min-h-screen">
       <h2 className="text-2xl font-bold text-white flex justify-center ">Current Stock Level</h2>
       <div className="overflow-x-auto">
-        <table className="min-w-full table-auto border border-gray-400 text-black">
+        <table className="min-w-full table-auto border border-blue-700 text-white">
           <thead>
             <tr className="bg-gray-200">
               <th className="border p-2">Category</th>
