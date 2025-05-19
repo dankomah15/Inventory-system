@@ -71,7 +71,7 @@ const StockPurchase = () => {
       <div className="overflow-x-auto">
         <table className="min-w-full table-auto border border-blue-700 text-white">
           <thead>
-            <tr className="bg-gray-200">
+            <tr className="bg-blue-700">
               <th className="border p-2">Category</th>
               <th className="border p-2">Product ID</th>
               <th className="border p-2">Product Name</th>
